@@ -1,2 +1,4 @@
 # face_recognize
-svm
+basic svm
+result
+![](./face_recognize.gif)
